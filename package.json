@@ -23,7 +23,7 @@
     "@nuxtjs/style-resources": "^1.0.0",
     "autosize": "^4.0.2",
     "contentful": "^7.10.0",
-    "gsap": "3.0.2",
+    "gsap": "3.6.0",
     "loco-scroll": "^3.2.8",
     "nuxt": "^2.0.0",
     "vue-inputmask": "^0.2.1"
